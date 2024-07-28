@@ -1,9 +1,4 @@
----
-title: "Looking into Bitcoin mining in Ethiopia"
-author: ""
-date: ""
-output: pdf_document
----
+# Looking into Bitcoin mining with simulation
 
 # Opportunity
 
