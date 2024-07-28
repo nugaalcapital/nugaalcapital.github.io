@@ -74,6 +74,8 @@ Understanding global hashrate is important. This is because mining bitcoin is a 
 
 Below we have used the same distribution to simulate possible pathways for bitcoin over the next three years. This will help us to understand the potential value for the bitcoin mined daily and work out daily profit by multiplying the bitcoin earned by the daily bitcoin price minus hosting costs. It can also help us to understand what the breakeven cost for mining given our machine type and total hosting costs will be.
 
+![Price](https://nugaalcapital.github.io/_posts/price.png)
+
 
 Bitcoin price can fluctuate due to a variety of reasons. Geopolitics, priced in narratives, market makers etc. However, due to its' characteristics such as the hardcap and accessibility, it has remained very sturdy and still exists after 15 years. 
 
@@ -82,6 +84,7 @@ Bitcoin price can fluctuate due to a variety of reasons. Geopolitics, priced in 
 
 Here, for the T21 Antminer machines, we have worked out what the daily profit could look like under the 4 different pathways of bitcoin price and hashrate. The volatility of daily profit is to be expected due to hashrate and bitcoin price but it does seem favourable over all three years in general except for version 4 of the simulation.
 
+![Profit](https://nugaalcapital.github.io/_posts/profit.png)
 
 These profit graphs only look at a daily selling strategy to pay for "daily hosting fee". In reality, this amount is charged monthly so we may want to hold the bitcoin until the end of the month and then sell enough to pay for the hosting fee. 
 
