@@ -65,7 +65,7 @@ We will create 4 different scenarios some very positive and some very negative t
 
 Here we are simulating 4 different paths the potential global hashrate could take using the distribution. This will allow us later to observe our share of this hashrate to work out how much of the daily bitcoin mined will be earned by our machines.
 
-![plot of chunk unnamed-chunk-15](figure/unnamed-chunk-15-1.png)
+![plot of chunk unnamed-chunk-15](figure/unnamed-chunk-15-1.PNG)
 <img src="figure/unnamed-chunk-15-1.png" class="img-responsive" alt=""> </div>
 
 
