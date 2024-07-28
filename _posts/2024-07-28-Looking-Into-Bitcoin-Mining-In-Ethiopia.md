@@ -74,7 +74,7 @@ Understanding global hashrate is important. This is because mining bitcoin is a 
 
 Below we have used the same distribution to simulate possible pathways for bitcoin over the next three years. This will help us to understand the potential value for the bitcoin mined daily and work out daily profit by multiplying the bitcoin earned by the daily bitcoin price minus hosting costs. It can also help us to understand what the breakeven cost for mining given our machine type and total hosting costs will be.
 
-![Price](price.png)
+![Price](nugaalcapital.github.io/price.png)
 
 
 Bitcoin price can fluctuate due to a variety of reasons. Geopolitics, priced in narratives, market makers etc. However, due to its' characteristics such as the hardcap and accessibility, it has remained very sturdy and still exists after 15 years. 
