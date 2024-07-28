@@ -45,7 +45,7 @@ If we purchase 55 machines what is our revenue and costs?
 </tbody>
 </table>
 
-The current cost of each machine as quoted to us on the 23rd of July is 3,575 USD. 55 machines will give us an initial cost of 196,625 USD. This would give us a return of 51.9\%`$ return 
+The current cost of each machine as quoted to us on the 23rd of July is 3,575 USD. 55 machines will give us an initial cost of 196,625 USD. This would give us a return of 51.9% return 
 
 # Simulation
 
@@ -65,7 +65,7 @@ We will create 4 different scenarios some very positive and some very negative t
 
 Here we are simulating 4 different paths the potential global hashrate could take using the distribution. This will allow us later to observe our share of this hashrate to work out how much of the daily bitcoin mined will be earned by our machines.
 
-
+![Hashrate](hashrate.png)
 
 Understanding global hashrate is important. This is because mining bitcoin is a global competition and extremely cutthroat. Many large miners are forced to shut down machines due to increasing costs and difficulties in mining bitcoin. Miner capitulation post halving is common and there are indicators that can help in detecting when competition for hashrate goes down. A useful article to read is linked here https://medium.com/capriole/hash-ribbons-bitcoin-bottoms-60da13095836. 
 
@@ -89,8 +89,7 @@ These profit graphs only look at a daily selling strategy to pay for "daily host
 
 We have worked out the returns under each of the 4 different simulated pathways. We have also included sc1 and sc2 which mean scenario 1 where we buy the machines recommended or scenario 2 where we use the latest machines, the bitcoin Miner S21 Hyd 335T. What we want to check here is whether the claim by the hosting company that the T21 are more efficient and provide better returns are true. Details can be found in the addendum section. 
 
-The table shows us 52.31\%`$ return for v1, 64.01\%`$ for V2,
-44.39\%`$ for V3 and 43.12\%`$ for V4 which falls in line with the return stated by the company which was 51.9\%`$.
+The table shows us 52.31% return for v1, 64.01% for V2, 44.39% for V3 and 43.12% for V4 which falls in line with the return stated by the company which was 51.9%.
 
 Second and third year however demonstrate why the simulation was needed. Depending on where we are in the cycle, our returns could have significant upside or downside and it is important to account for this.
 
