@@ -1,4 +1,6 @@
-# Looking into Bitcoin mining with simulation
+# Looking into Bitcoin mining using simulation
+
+*Warning: This post is actively undergoing changes and does not constitute financial advice*
 
 # Opportunity
 
