@@ -65,7 +65,7 @@ We will create 4 different scenarios some very positive and some very negative t
 
 Here we are simulating 4 different paths the potential global hashrate could take using the distribution. This will allow us later to observe our share of this hashrate to work out how much of the daily bitcoin mined will be earned by our machines.
 
-![Hashrate](/_posts/hashrate.png)
+![Hashrate](hashrate.png)
 
 Understanding global hashrate is important. This is because mining bitcoin is a global competition and extremely cutthroat. Many large miners are forced to shut down machines due to increasing costs and difficulties in mining bitcoin. Miner capitulation post halving is common and there are indicators that can help in detecting when competition for hashrate goes down. A useful article to read is linked here https://medium.com/capriole/hash-ribbons-bitcoin-bottoms-60da13095836. 
 
@@ -74,7 +74,7 @@ Understanding global hashrate is important. This is because mining bitcoin is a 
 
 Below we have used the same distribution to simulate possible pathways for bitcoin over the next three years. This will help us to understand the potential value for the bitcoin mined daily and work out daily profit by multiplying the bitcoin earned by the daily bitcoin price minus hosting costs. It can also help us to understand what the breakeven cost for mining given our machine type and total hosting costs will be.
 
-![Price](/price.png)
+![Price](price.png)
 
 
 Bitcoin price can fluctuate due to a variety of reasons. Geopolitics, priced in narratives, market makers etc. However, due to its' characteristics such as the hardcap and accessibility, it has remained very sturdy and still exists after 15 years. 
