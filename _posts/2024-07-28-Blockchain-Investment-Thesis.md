@@ -1,7 +1,7 @@
 ## A Blockchain Investment Thesis
 *Warning: This post is actively undergoing changes and does not constitute financial advice*
 
-### 1 - Thesis
+### Thesis
 
 The world has moved extremely fast over the last 20 years giving rise to a proliferation of online services and internet companies. Despite the advantages and value that the internet has provided the average individual, many pain points have emerged as a result of the control centralised internet companies have over our information. Data leaks are a common occurrence despite the security and revenue of internet based companies and stolen data is then sold over the black market. Sensitive data from consumers is requested several times a day through passwords, transactions and signing up to services. Consumers are expected to remember 100s of passwords for various websites and services and the similarity usually seen across all passwords place the consumer under potential danger from hacks. Consumers are incentivised to upload personal information on social media and sophisticated hackers are able to piece together this information for malicious activities. The abundance of personal data is likely to increase with wearable electronics that measure health based statistics such as heart rate alongside the regular use of mobile phones. Consumer preferences are highly sought after with primary market research data collected regularly and secondary data sources such as clicks and psychographic data. Given the value of such information, an individual would be right to question whether or not it should be hosted on centralised databases and whether the exchange of such information for usually free services is a good deal.
 
