@@ -45,7 +45,7 @@ If we purchase 55 machines what is our revenue and costs?
 </tbody>
 </table>
 
-The current cost of each machine as quoted to us on the 23rd of July is 3,575 USD. 55 machines will give us an initial cost of 196,625 USD. This would give us a return of 51.9\% return 
+The current cost of each machine as quoted to us on the 23rd of July is 3,575 USD. 55 machines will give us an initial cost of 196,625 USD. This would give us a return of 51.9\%`$ return 
 
 # Simulation
 
@@ -65,8 +65,6 @@ We will create 4 different scenarios some very positive and some very negative t
 
 Here we are simulating 4 different paths the potential global hashrate could take using the distribution. This will allow us later to observe our share of this hashrate to work out how much of the daily bitcoin mined will be earned by our machines.
 
-![plot of chunk unnamed-chunk-15](figure/unnamed-chunk-15-1.PNG)
-<img src="figure/unnamed-chunk-15-1.png" class="img-responsive" alt=""> </div>
 
 
 Understanding global hashrate is important. This is because mining bitcoin is a global competition and extremely cutthroat. Many large miners are forced to shut down machines due to increasing costs and difficulties in mining bitcoin. Miner capitulation post halving is common and there are indicators that can help in detecting when competition for hashrate goes down. A useful article to read is linked here https://medium.com/capriole/hash-ribbons-bitcoin-bottoms-60da13095836. 
@@ -76,7 +74,6 @@ Understanding global hashrate is important. This is because mining bitcoin is a 
 
 Below we have used the same distribution to simulate possible pathways for bitcoin over the next three years. This will help us to understand the potential value for the bitcoin mined daily and work out daily profit by multiplying the bitcoin earned by the daily bitcoin price minus hosting costs. It can also help us to understand what the breakeven cost for mining given our machine type and total hosting costs will be.
 
-![plot of chunk unnamed-chunk-16](figure/unnamed-chunk-16-1.png)
 
 Bitcoin price can fluctuate due to a variety of reasons. Geopolitics, priced in narratives, market makers etc. However, due to its' characteristics such as the hardcap and accessibility, it has remained very sturdy and still exists after 15 years. 
 
@@ -85,7 +82,6 @@ Bitcoin price can fluctuate due to a variety of reasons. Geopolitics, priced in 
 
 Here, for the T21 Antminer machines, we have worked out what the daily profit could look like under the 4 different pathways of bitcoin price and hashrate. The volatility of daily profit is to be expected due to hashrate and bitcoin price but it does seem favourable over all three years in general except for version 4 of the simulation.
 
-![plot of chunk unnamed-chunk-17](figure/unnamed-chunk-17-1.png)
 
 These profit graphs only look at a daily selling strategy to pay for "daily hosting fee". In reality, this amount is charged monthly so we may want to hold the bitcoin until the end of the month and then sell enough to pay for the hosting fee. 
 
@@ -93,8 +89,8 @@ These profit graphs only look at a daily selling strategy to pay for "daily host
 
 We have worked out the returns under each of the 4 different simulated pathways. We have also included sc1 and sc2 which mean scenario 1 where we buy the machines recommended or scenario 2 where we use the latest machines, the bitcoin Miner S21 Hyd 335T. What we want to check here is whether the claim by the hosting company that the T21 are more efficient and provide better returns are true. Details can be found in the addendum section. 
 
-The table shows us 52.31\% return for v1, 64.01\% for V2,
-44.39\% for V3 and 43.12\% for V4 which falls in line with the return stated by the company which was 51.9\%.
+The table shows us 52.31\%`$ return for v1, 64.01\%`$ for V2,
+44.39\%`$ for V3 and 43.12\%`$ for V4 which falls in line with the return stated by the company which was 51.9\%`$.
 
 Second and third year however demonstrate why the simulation was needed. Depending on where we are in the cycle, our returns could have significant upside or downside and it is important to account for this.
 
