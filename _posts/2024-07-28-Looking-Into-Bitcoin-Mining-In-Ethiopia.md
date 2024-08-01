@@ -6,7 +6,7 @@
 
 #### Background
 
-An opportunity has presented itself via a company to invest in bitcoin mining by buying a number of ASIC miner machines which will be hosted at a hashlabs facility in Ethiopia. Ethiopia has demonstrated a large comparative advantage with their cheap electricity and scale of production as a result of hydropower. According to https://www.globalpetrolprices.com/Ethiopia/electricity_prices/, business electricity rates are USD 0.021 kWh. 
+An opportunity has presented itself via a company to invest in bitcoin mining by buying a number of ASIC miner machines which will be hosted at the companies facility in Ethiopia. Ethiopia has demonstrated a large comparative advantage with their cheap electricity and scale of production as a result of hydropower. According to https://www.globalpetrolprices.com/Ethiopia/electricity_prices/, business electricity rates are USD 0.021 kWh. 
 
 #### Costs
 
