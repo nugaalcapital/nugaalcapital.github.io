@@ -9,6 +9,8 @@ We have a keen interest in the store of value feature for bitcoin, public blockc
 **Services**
 - Token Economics Advice
 - Sourcing Investment Options
+- Due Diligence
+- Market research
 
 **Contact**
 Email: ahmedoali96@gmail.com
