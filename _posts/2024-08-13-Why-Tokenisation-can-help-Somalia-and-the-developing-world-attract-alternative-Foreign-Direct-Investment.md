@@ -10,13 +10,13 @@ We believe their risk appetite is better served being directed to investing in s
 
 Below we can see USDC market cap on the Solana blockchain from January 2024 to August 2024 which has seen a huge rise due to the memecoin rally and increasing positive sentiment to Solana. Attempting to find USD inflow data for memecoins is difficult but we can use this plot as a proxy to gain some understanding of the capacity of retail investors. The market cap of USDC shot up from 969,213,609 USD to 2,716,959,898 USD. Capturing 10% of such inflows is equivalent to 174,774,629 USD which can add huge value to local companies and communities through new infrastructure projects.
 
-![USDC](images/USDC.png)
+![USDC](/images/USDC.png)
 
 ### Tokenisation currently
 
 Currently, Tokenised assets mainly revolve around stablecoins, real estate, gold and treasuries. Stablecoins have become a heavily relied upon technology not only in providing access to cryptoassets but also becoming a store of value or payment method for [citizens](https://cointelegraph.com/news/stablecoin-buys-turkey-4-percent-gdp) of countries with highly inflationary currencies. USDT on its own creating more than 114.5 billion USDT tokens on-chain with every token represented by one dollar.  
 
-![USDST](images/USDT.png)
+![USDST](/images/USDT.png)
 
 Real estate is an interesting use of tokenisation. Lofty.ai is an example of a company that provides access to ownership of real estate in America. Owners of a real estate token receive a share of rental income from the house. This concept can have a huge impact in the developing world by encouraging development of real estate whilst providing higher than average returns due to the appreciation of value that comes from the transition from offplan to finished housing. Currently Lofty's total value locked is only 35 million USD which highlights how early the tokenised sector is. Currently if you go on lofty's website, you can see how the information that is provided to an investor for each house which includes loan documents for example. 
 
@@ -28,7 +28,7 @@ It is important that Somalia looks deeply at countries ahead of it in order to l
 
 Below is a plot of the top twenty countries with the highest amounts of debt to the IMF. Majority of the top twenty seem to be countries in Africa in particular Sub Saharan Africa.
 
-![IMF](images/IMF.png)
+![IMF](/images/IMF.png)
 
 Below is a table of the top 20 countries for interest payments per gdp. We can see some countries with large debt to IMF making appearance here as well. 
 
@@ -264,13 +264,13 @@ We observe a few countries that exist in all three such as Ghana which currently
 
 Somalia is an interesting country with large potential but has been hampered by weak institutions and legal framework that encourages multinational corporations to take a risk, invest and create jobs. The Somali economy is mainly based on imports as seen below and this means a large amount of circulating dollars is moving out of the country. Domestic revenue is tight and mainly relied on port custom taxes and some other domestic taxes.
 
-![Trade Developments 2021Q1-2023Q4 (in Millions of US Dollars)](images/trade.png){width=60%}
+![Trade Developments 2021Q1-2023Q4 (in Millions of US Dollars)](/images/trade.png){width=60%}
 
 Below we can see two plots from the central bank of Somalia's Q4 2023 report. The first one shows FMS revenues and grants while the second plot displays expenditure and it is clear to see that there is not much room between expenditure and revenue with most states possessing a fiscal deficit in the last quarter of 2023.
 
-![The Summary of Federal Member States Revenues and Grants 2023Q4](images/states.png){width=60%}
+![The Summary of Federal Member States Revenues and Grants 2023Q4](/images/states.png){width=60%}
 
-![Federal Member States Expenditure 2023Q4](images/states2.png){width=60%}
+![Federal Member States Expenditure 2023Q4](/images/states2.png){width=60%}
 
 Looking at the central banks 2023 fiscal operations policy brief, there is a recognition of how domestic revenue is not sufficient enough to even cover recurring costs and the overdependence of grants just for operational costs. The ideas for how to increase the budget however seem bleak. Increase in tax revenue on a country with a gdp per capita of 667 USD [Source: NBS GDP Report 2022 Page 5] and increasing debt add significant burdens on an already fragile country. Attempting to find funds for capital expenditure without those two options also seems impossible. We can already see a picture emerging of a country that may have no choice but to follow in the footsteps of developing countries that have piled on huge debt, maintain a highly inflationary domestic currency and spend a proportion of revenue just servicing existing debt. 
 
