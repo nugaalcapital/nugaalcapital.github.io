@@ -278,8 +278,6 @@ Below we can see two plots from the central bank of Somalia's Q4 2023 report. Th
 
 Looking at the central banks 2023 fiscal operations policy brief, there is a recognition of how domestic revenue is not sufficient enough to even cover recurring costs and the overdependence of grants just for operational costs. The ideas for how to increase the budget however seem bleak. Increase in tax revenue on a country with a gdp per capita of 667 USD [Source: NBS GDP Report 2022 Page 5] and increasing debt add significant burdens on an already fragile country. Attempting to find funds for capital expenditure without those two options also seems impossible. We can already see a picture emerging of a country that may have no choice but to follow in the footsteps of developing countries that have piled on huge debt, maintain a highly inflationary domestic currency and spend a proportion of revenue just servicing existing debt. 
 
-\newpage
-
 ### FDI 
 
 Attracting foreign direct investment is a difficult task and essentially requires competing on the global stage. Motivations for companies to invest in a country include; access to natural resources, access to up and coming markets, gaining efficiencies against other companies or to go after strategic assets. This is laid out in a world bank study linked [here](https://documents1.worldbank.org/curated/ar/459641468330261096/pdf/678030VP00PUBL0B03270Attracting0FDI.pdf).
