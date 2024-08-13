@@ -34,7 +34,7 @@ Below is a plot of the top twenty countries with the highest amounts of debt to 
 
 ![IMF](/images/IMF.png)
 
-Below is a table of the top 20 countries for interest payments per gdp. We can see some countries with large debt to IMF making appearance here as well. 
+Below is a table of the top 20 countries for interest payments per gdp. We can see some countries with large debt to IMF making an appearance here as well. 
 
 <table class="table" style="">
  <thead>
@@ -266,7 +266,7 @@ We observe a few countries that exist in all three such as Ghana which currently
 
 ### Somalia
 
-Somalia is an interesting country with large potential but has been hampered by weak institutions and legal framework that encourages multinational corporations to take a risk, invest and create jobs. The Somali economy is mainly based on imports as seen below and this means a large amount of circulating dollars is moving out of the country. Domestic revenue is tight and mainly relied on port custom taxes and some other domestic taxes.
+The Somali economy is mainly based on imports as seen below and this means a large amount of circulating dollars is moving out of the country. Domestic revenue is tight and mainly relies on port custom taxes and some other domestic taxes. Livestock exports makes up 40% of Somalia's GDP. 
 
 ![Trade Developments 2021Q1-2023Q4 (in Millions of US Dollars)](/images/trade.png)
 
