@@ -2,11 +2,11 @@
 
 *Warning: This post is actively undergoing changes and does not constitute financial advice*
 
-### Why Tokenise?
+#### Why Tokenise?
 
 For developing countries such as Somalia, that struggle with attracting foreign direct investment and raising hard currency to invest in infrastructure and development, having an alternative route to raising capital can be a game changer and could potentially become a flywheel that allows Somalia to diversify its' way out of a reliance on NGO aid grants. This is not only beneficial to developing countries but can also provide access for sophisticated retail investors to invest in riskier assets that provide dividends and ownership of well rooted businesses thus reducing the gap between retail and institutional investors performance.
 
-### Retail investor market
+#### Retail investor market
 
 The number of retail investors have increased significantly over the years yet the available assets to invest in such as the stock market are highly complex and dominated by large sophisticated players with the ability to dominate the market and access to information/edge that a retail investor does not. Desire for higher returns have shifted many retail investor's attention to cryptocurrencies, however this has not been a net positive due to promotion of nonsensical tokens with no inherent value or purpose other than to take advantage of investors.
 
@@ -16,7 +16,7 @@ Below we can see USDC market cap on the Solana blockchain from January 2024 to A
 
 ![USDC](/images/USDC.png)
 
-### Tokenisation currently
+#### Tokenisation currently
 
 Currently, Tokenised assets mainly revolve around stablecoins, real estate, gold and treasuries. Stablecoins have become a heavily relied upon technology not only in providing access to cryptoassets but also becoming a store of value or payment method for [citizens](https://cointelegraph.com/news/stablecoin-buys-turkey-4-percent-gdp) of countries with highly inflationary currencies. USDT on its own creating more than 114.5 billion USDT tokens on-chain with every token represented by one dollar.  
 
@@ -26,7 +26,7 @@ Real estate is an interesting use of tokenisation. Lofty.ai is an example of a c
 
 The area of tokenisation in general is still very early when compared to the value of global assets which sits at 100s of trillions of dollars. This provides the developing world the opportunity to cut through the unfair levels of competition for foreign direct investment, the need for excessive debt and become first movers or the home for tokenised assets which can have huge implications for the future of the developing world.
 
-### The Developing world's crisis
+#### The Developing world's crisis
 
 It is important that Somalia looks deeply at countries ahead of it in order to learn from their mistakes and think of alternative ways to finance development. High amounts of debt, high levels of tax and high cost of living lead to a dissatisfied population and potentially uprisings or conflicts. We will take a look at three characteristics that have led to struggling developing countries; IMF debt, interest payments on public debt per GDP and inflation rates. 
 
@@ -264,7 +264,7 @@ Finally we take a look at a table of top 20 countries with high inflation. Again
 
 We observe a few countries that exist in all three such as Ghana which currently suffers from high debt, high inflation and high interest payments on public debt per GDP. Ghana is an example of a country that exists within a vicious cycle which necessitates even more public debt, austerity measures, tax increases etc. This should serve as a warning to a country like Somalia when creating a national development plan so as to avoid such burdens on the state and the population in the future.
 
-### Somalia
+#### Somalia
 
 The Somali economy is mainly based on imports as seen below and this means a large amount of circulating dollars is moving out of the country. Domestic revenue is tight and mainly relies on port custom taxes and some other domestic taxes. Livestock exports makes up 40% of Somalia's GDP. 
 
@@ -278,7 +278,7 @@ Below we can see two plots from the central bank of Somalia's Q4 2023 report. Th
 
 Looking at the central banks 2023 fiscal operations policy brief, there is a recognition of how domestic revenue is not sufficient enough to even cover recurring costs and the overdependence of grants just for operational costs. The ideas for how to increase the budget however seem bleak. Increase in tax revenue on a country with a gdp per capita of 667 USD [Source: NBS GDP Report 2022 Page 5] and increasing debt add significant burdens on an already fragile country. Attempting to find funds for capital expenditure without those two options also seems impossible. We can already see a picture emerging of a country that may have no choice but to follow in the footsteps of developing countries that have piled on huge debt, maintain a highly inflationary domestic currency and spend a proportion of revenue just servicing existing debt. 
 
-### FDI 
+#### FDI 
 
 Attracting foreign direct investment is a difficult task and essentially requires competing on the global stage. Motivations for companies to invest in a country include; access to natural resources, access to up and coming markets, gaining efficiencies against other companies or to go after strategic assets. This is laid out in a world bank study linked [here](https://documents1.worldbank.org/curated/ar/459641468330261096/pdf/678030VP00PUBL0B03270Attracting0FDI.pdf).
 
@@ -286,7 +286,7 @@ Figure 2 in that study displays a percentage of studies that cite specific facto
 
 The study goes on and figure 3 displays factors that are the most important determinants of location of FDI. Investment climate was the third most cited investment motivation and this includes regulation, efficient processes, logistical infrastructure and market size. As mentioned in the conclusion of the study, even if the opportunity is high, if the investment climate is not strong then it impedes on companies taking advantage of the opportunity. Currently, FDI net inflows in Africa during 2022 totals 50,026,056,255 with Somalia taking only 1.3% of those inflows.
 
-### Case study
+#### Case study
 
 The new Garacad port in Somalia is an example of incredible community mobilisation in order to fund the development of infrastructure. This port aimed to satisfy the demand for imports in Central Somalia and especially Eastern Ethiopia post completion of the road from the port to Galdogob. The total cost according to [Bloomberg](https://www.bloomberg.com/news/articles/2022-09-09/deep-water-somali-port-gives-landlocked-ethiopia-new-trade-route) is 531,000,000 USD which demonstrates the level of crowd financing that can happen in Somalia.
 
@@ -294,11 +294,11 @@ By leveraging Blockchain technology, further improvements can be made to an alre
 
 Tokenisation of shares has the further advantage of decentralisation of ownership across the world meaning one player may find it difficult to own a controlling share. Currently, there are rumours of a 60% buyout by a UAE based company which may add a blemish to what is a ground up success. Many developing countries are forced to sell a large chunk of national infrastructure to finance development or due to debt. Accessing a liquid global market helps a country to maintain majority control by not selling to a few groups.
 
-### Tokenising Stocks
+#### Tokenising Stocks
 
 In our opinion, before beginning with large infrastructure projects, it may be better to start by tokenising shares of local companies first and making these tokenised shares available on decentralised exchanges or a custom made dApp for tokenised shares. A company such as ourselves can raise money to purchase shares of a local company X in the market to lock up, create tokenised shares, fractionalise those shares so several token may represent one actual share but provide a cheaper price to purchase and create a liqudity pool for buyers and sellers. Then when company X distributes dividends, stablecoins will be bought equivalent to the value of dollars distributed as dividends, and sent to all token holders by smart contract and the rules coded within it. If the liquidity pool becomes large and liquid enough, it becomes a route for company X to raise capital by locking up shares, converting to tokenised shares and selling in the liquidity pool for stablecoins. Returns to be expected in Somalia ranges roughly from 12% to 40% depending on the sector, size of the company and dividend policies.
 
-### Some challenges
+#### Some challenges
 
 However, investors will require protections against rugpulls or any legal implication that could arise in the future from holding such tokens. The entity responsible for locking up real shares must be auditable and make available proof of reserves conducted by a decentralised oracle network. Gora Network can provide such cutting edge technology to make all this possible. There are also potential discrepancies between locally traded value and share value within the liquidity pool. Such a gap in value may be taken advantage by local shareholders that wish to sell in the liquidity pool or by token holders who want to sell in the local market. It is important to conduct simulations to understand how all these behaviours may impact the market. It is common for ETFs of cryptocurrencies to display a premium percentage comparing ETF value vs the value of the cryptocurrency on exchanges.
 
