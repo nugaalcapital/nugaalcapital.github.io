@@ -1,3 +1,7 @@
+# Why Tokenisation can help Somalia and the developing world attract alternative Foreign Direct Investment
+
+*Warning: This post is actively undergoing changes and does not constitute financial advice*
+
 ### Why Tokenise?
 
 For developing countries such as Somalia, that struggle with attracting foreign direct investment and raising hard currency to invest in infrastructure and development, having an alternative route to raising capital can be a game changer and could potentially become a flywheel that allows Somalia to diversify its' way out of a reliance on NGO aid grants. This is not only beneficial to developing countries but can also provide access for sophisticated retail investors to invest in riskier assets that provide dividends and ownership of well rooted businesses thus reducing the gap between retail and institutional investors performance.
