@@ -268,13 +268,13 @@ We observe a few countries that exist in all three such as Ghana which currently
 
 Somalia is an interesting country with large potential but has been hampered by weak institutions and legal framework that encourages multinational corporations to take a risk, invest and create jobs. The Somali economy is mainly based on imports as seen below and this means a large amount of circulating dollars is moving out of the country. Domestic revenue is tight and mainly relied on port custom taxes and some other domestic taxes.
 
-![Trade Developments 2021Q1-2023Q4 (in Millions of US Dollars)](/images/trade.png){width=60%}
+![Trade Developments 2021Q1-2023Q4 (in Millions of US Dollars)](/images/trade.png)
 
 Below we can see two plots from the central bank of Somalia's Q4 2023 report. The first one shows FMS revenues and grants while the second plot displays expenditure and it is clear to see that there is not much room between expenditure and revenue with most states possessing a fiscal deficit in the last quarter of 2023.
 
-![The Summary of Federal Member States Revenues and Grants 2023Q4](/images/states.png){width=60%}
+![The Summary of Federal Member States Revenues and Grants 2023Q4](/images/states.png)
 
-![Federal Member States Expenditure 2023Q4](/images/states2.png){width=60%}
+![Federal Member States Expenditure 2023Q4](/images/states2.png)
 
 Looking at the central banks 2023 fiscal operations policy brief, there is a recognition of how domestic revenue is not sufficient enough to even cover recurring costs and the overdependence of grants just for operational costs. The ideas for how to increase the budget however seem bleak. Increase in tax revenue on a country with a gdp per capita of 667 USD [Source: NBS GDP Report 2022 Page 5] and increasing debt add significant burdens on an already fragile country. Attempting to find funds for capital expenditure without those two options also seems impossible. We can already see a picture emerging of a country that may have no choice but to follow in the footsteps of developing countries that have piled on huge debt, maintain a highly inflationary domestic currency and spend a proportion of revenue just servicing existing debt. 
 
