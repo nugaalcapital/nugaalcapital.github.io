@@ -8,6 +8,6 @@ This dashboard presents some key graphs we will be keeping an eye on in the next
 
 Check [here](https://ahmedomali.shinyapps.io/dashboard2025/) for better viewing
 
-<iframe src="https://ahmedomali.shinyapps.io/dashboard2025/" width="1200" height="1000"></iframe>
+<iframe src="https://ahmedomali.shinyapps.io/dashboard2025/" width="1100" height="1000"></iframe>
 
 
