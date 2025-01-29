@@ -1,3 +1,8 @@
+
+Author: Ahmed Ali
+
+Email: ahmedoali96@gmail.com
+
 *This post will be subject to ongoing change*
 
 ### Mission
