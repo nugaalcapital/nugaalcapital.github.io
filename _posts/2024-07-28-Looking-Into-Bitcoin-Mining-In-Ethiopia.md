@@ -1,6 +1,7 @@
 # Looking Into Bitcoin Mining Using Simulation
 
 Author: Ahmed Ali
+
 Email: ahmedoali96@gmail.com
 
 *Warning: This post is actively undergoing changes and does not constitute financial advice*
