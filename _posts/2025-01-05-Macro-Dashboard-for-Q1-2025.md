@@ -1,3 +1,6 @@
+Author: Ahmed Ali
+
+Email: ahmedoali96@gmail.com
 
 This dashboard presents some key graphs we will be keeping an eye on in the next few months.
 
